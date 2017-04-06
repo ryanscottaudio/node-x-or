@@ -4,7 +4,7 @@
   "description": "Node/browser exclusive or function.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "tape test.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "or"
   ],
   "author": "Ryan Campbell",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
 }
