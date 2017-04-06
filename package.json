@@ -1,6 +1,6 @@
 {
   "name": "x-or",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Node/browser exclusive or function.",
   "main": "index.js",
   "scripts": {
