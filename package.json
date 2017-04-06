@@ -1,0 +1,21 @@
+{
+  "name": "x-or",
+  "version": "1.0.0",
+  "description": "Node/browser exclusive or function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanscottaudio/node-x-or.git"
+  },
+  "keywords": [
+    "xor",
+    "exor",
+    "exclusive",
+    "or"
+  ],
+  "author": "Ryan Campbell",
+  "license": "ISC"
+}
