@@ -2,7 +2,7 @@
 Node/browser exclusive or function.
 
 ## Installation
-`npm install node-x-or`
+`npm install x-or`
 
 ## Usage
 ```js
